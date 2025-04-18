@@ -10,26 +10,26 @@
 
 ## About
 
-**Alya** is a private but publicly usable Discord bot.  
-It includes moderation, logging, chatbot, and more — tailored for communities and personal use.
+**Alya** is a private but publicly usable Discord bot built for flexibility, performance, and ease of use.  
+It includes moderation, logging, chatbot, and other useful features — perfect for both communities and personal servers.
 
-> **Note:** While the bot is free to use, the source code is private and not available for redistribution or modification.
+> **Note:** The bot is public to use, but the source code remains private and is not intended for redistribution.
 
 ---
 
 ## Features
 
-<img src="https://emoji.discadia.com/emojis/8f9bc25e-80e5-48a0-a879-b4d8ea0c6e8f.gif" width="20"/> AI-powered chatbot (OpenAI-based)  
-<img src="https://emoji.discadia.com/emojis/f47e1e0a-88b2-4a0b-9f27-1e0b6d4dc194.gif" width="20"/> Auto moderation and message logging  
-<img src="https://emoji.discadia.com/emojis/8bafed3c-c6d6-4229-b3a2-1dbaf4abf3ff.gif" width="20"/> Custom prefix and slash commands  
-<img src="https://emoji.discadia.com/emojis/f830b7db-4f29-4371-9534-660dca9ab03d.gif" width="20"/> Server-specific settings  
-<img src="https://emoji.discadia.com/emojis/60531eac-9de4-4b5e-a407-5c6d3a51129f.gif" width="20"/> Private & lightweight
+- **AI-powered chatbot** (OpenAI-based)  
+- **Auto moderation** and **message logging**  
+- **Custom prefix** and **slash commands**  
+- **Server-specific settings**  
+- **Lightweight** and **privacy-respecting**
 
 ---
 
 ## Invite & Support
 
-- [Invite Alya Bot](https://discord.com/oauth2/authorize?client_id=1311666717281226832&permissions=8&scope=bot)
+- [Invite Alya Bot](https://discord.com/oauth2/authorize?client_id=1311666717281226832&permissions=8&scope=bot)  
 - [Join Support Server](https://discord.gg/RuunxfUGnT)
 
 ---
@@ -37,24 +37,25 @@ It includes moderation, logging, chatbot, and more — tailored for communities 
 ## Privacy Policy
 
 ### 1. Data Collected
-- **User ID, Server ID, Channel ID** (for settings and bot features)
-- **Selected messages**, only if chatbot or logging features are enabled
-- **Activity data**, if statistics features are active
+- **User ID**, **Server ID**, **Channel ID** (for bot settings and operation)  
+- **Selected messages**, only when chatbot or logging features are enabled  
+- **Activity data**, if statistics features are used
 
 ### 2. Data Usage
-- Only used to operate bot features within permitted servers  
-- No data is sold or shared with third parties  
-- Data access is restricted to the bot owner
+- Data is used **only** to support bot features in allowed servers  
+- **No data is sold or shared** with any third parties  
+- Data access is restricted **exclusively to the bot owner**
 
 ### 3. Data Storage & Deletion
-- Data is not permanently stored unless required by bot features  
-- You may request data deletion via Discord
+- Data is **not stored permanently** unless required for bot functionality  
+- Users may **request data deletion** by contacting the bot owner via Discord
 
 ### 4. Contact
-- For privacy-related questions, contact the developer through our [Support Server](https://discord.gg/RuunxfUGnT)
+For privacy-related questions or data requests, please contact the developer via our [Support Server](https://discord.gg/RuunxfUGnT).
 
 ---
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for full license information.
