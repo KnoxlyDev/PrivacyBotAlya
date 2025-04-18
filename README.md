@@ -1,10 +1,10 @@
 # Privacy Policy
 
 <p align="center">
-  <a href="https://lynk.id/alyav4">Home</a> |
+  <a href="https://yourwebsite.com">Home</a> |
   <a href="https://yourwebsite.com/docs">Documentation</a> |
-  <a href="[https://discord.com/oauth2/your-bot-link](https://discord.com/oauth2/authorize?client_id=1311666717281226832&permissions=8&integration_type=0&scope=bot)">Invite Bot</a> |
-  <a href="[https://discord.gg/your-invite](https://discord.gg/RuunxfUGnT)">Support Server</a> |
+  <a href="https://discord.com/oauth2/authorize?client_id=1311666717281226832&permissions=8&integration_type=0&scope=bot">Invite Bot</a> |
+  <a href="https://discord.gg/RuunxfUGnT">Support Server</a> |
   <a href="#privacy-policy">Privacy Policy</a>
 </p>
 
