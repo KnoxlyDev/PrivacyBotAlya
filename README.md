@@ -8,9 +8,9 @@
   <a href="#privacy-policy">Privacy Policy</a>
 </p>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/username/repo-name?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/username/repo-name)
-![GitHub](https://img.shields.io/github/license/username/repo-name)
+![GitHub Repo stars](https://img.shields.io/github/stars/KnoxlyDev/Privacy-Policy-Bot-alya?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/KnoxlyDev/Privacy-Policy-Bot-alya)
+![GitHub](https://img.shields.io/github/license/KnoxlyDev/Privacy-Policy-Bot-alya)
 
 ## Table of Contents
 - [1. Data Collected](#1-data-collected)
