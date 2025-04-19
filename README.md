@@ -46,7 +46,7 @@ This Privacy Policy outlines the data collected and how it is used when you inte
 **Killua OWN**  
 Makassar, South Sulawesi, Indonesia
 
-Owner contact email: <span style="color:gray">knoxzyv@gmail
+>**Owner contact email**: <span style="color:gray">knoxzyv@gmail.
 
 ### 2. Types of Data Collected
 
