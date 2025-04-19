@@ -5,7 +5,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/KnoxlyDev/Privacy-Policy-Bot-alya)
 ![Invite](https://img.shields.io/badge/Invite-Alya%20Bot-blue?logo=discord&link=https://discord.com/oauth2/authorize?client_id=1311666717281226832&permissions=8&scope=bot)
 ![Support Server](https://img.shields.io/discord/1353342583438573701?label=Support%20Server&logo=discord)
-![Version](https://img.shields.io/github/package-json/v/KnoxlyDev/PrivacyBotAlya?label=Version&branch=master)
+![Version](https://img.shields.io/badge/version-11.0.5-blue)
 
 
 ---
