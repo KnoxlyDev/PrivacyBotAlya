@@ -44,8 +44,9 @@ This Privacy Policy outlines the data collected and how it is used when you inte
 ### 1. Owner and Data Controller
 
 **Killua OWN**  
-Email: [Masukkan email kontak atau Discord ID]  
-Address: [Masukkan alamat opsional]
+Makassar, South Sulawesi, Indonesia
+
+Owner contact email: <span style="color:gray">knoxzyv@gmail
 
 ### 2. Types of Data Collected
 
