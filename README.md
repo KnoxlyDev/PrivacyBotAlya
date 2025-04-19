@@ -1,11 +1,11 @@
 # Alya - Discord Bot
 
-![npm package version](https://img.shields.io/npm/v/alya-bot.svg)
-![Build Status](https://img.shields.io/github/workflow/status/KnoxlyDev/Privacy-Policy-Bot-alya/CI?label=build)
 ![Stars](https://img.shields.io/github/stars/KnoxlyDev/Privacy-Policy-Bot-alya?style=social)
 ![License](https://img.shields.io/github/license/KnoxlyDev/Privacy-Policy-Bot-alya?cacheSeconds=60)
+![Last Commit](https://img.shields.io/github/last-commit/KnoxlyDev/Privacy-Policy-Bot-alya)
 ![Invite](https://img.shields.io/badge/Invite-Alya%20Bot-blue?logo=discord&link=https://discord.com/oauth2/authorize?client_id=1311666717281226832&permissions=8&scope=bot)
 ![Support Server](https://img.shields.io/discord/1353342583438573701?label=Support%20Server&logo=discord)
+![npm package version](https://img.shields.io/npm/v/alya-bot.svg)
 
 ---
 
