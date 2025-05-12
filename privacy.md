@@ -7,7 +7,7 @@ Last updated: May 12, 2025
 Alya Bot may collect and store the following data:
 - User ID and Server ID
 - Username and Tag (e.g., Knoxly#1234)
-- Limited message content (only for specific commands like `!redeem`, `ai`, etc.)
+- Limited message content (only for specific commands like `/redeem`, `/ai`, etc.)
 - Server-related information such as channel ID and role ID (for welcome/leave setup)
 
 We **do not** store private messages or full chat history.
